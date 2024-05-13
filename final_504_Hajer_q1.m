@@ -1,8 +1,5 @@
 %% Main
-% ENG504 Final Assigment Q1
-
-% Hajer Almubarak 
-
+% Hajer J
 % Document topic discovery via k-means algorithm.
 
 close all;  clear;  clc;
